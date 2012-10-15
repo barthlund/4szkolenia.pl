@@ -1,0 +1,15 @@
+body{background:white;}
+#logo_context{width:100%;margin:0 auto;}
+	#logo{font-family: "republic-web",serif;text-align:right;padding-right:3%;font-weight:bold;letter-spacing:-1px;}
+	.sygnet_4{
+		color:pink;background-image:url("../images/4szkolenia_logo_sygnet.png");background-position:right bottom;background-size: contain;display:inline-block;padding:0;width:1.24em;letter-spacing:-5px;
+		/*
+		-webkit-filter: blur(0.78px);
+		image-rendering: -moz-crisp-edges;         
+        image-rendering:   -o-crisp-edges;         
+        image-rendering: -webkit-optimize-contrast;
+        image-rendering: crisp-edges;
+        -ms-interpolation-mode: nearest-neighbor;  
+		*/
+	}
+	.sygnet_4:first-letter{opacity:0;}
